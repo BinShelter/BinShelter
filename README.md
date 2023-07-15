@@ -1,19 +1,18 @@
 <h2 align="center">READ THIS SHIT</h2>
 
 <h2 align="left">Config</h2>
-You can edit your usage of the tool in config.json
+Modifications to your usage of the tool can be made within the "config.json" file.
 
 <h2 align="left">Solver</h2>
-This cracker supports a extreme cheap solver that will be provided in a txt file inside the src folder named "secret"
+This cracker offers an incredibly affordable solver, which comes provided in a "secret" .txt file within the "src" folder.
 
 <h2 align="left">Proxies</h2>
-Input: " user:pass:@ip:port " in " proxies.txt "
-We reccomend to use the most unkown and best rotating residental proxies, our cracker is extreme fast and goes over 2000 - CPM !
+The input format for "proxies.txt" should follow this pattern: "user:pass:@ip:port",
+We highly recommend utilizing the most obscure and premium rotating residential proxies for optimal performance. Our cracker is exceptionally fast, reaching over 2000 CPM (Cracks Per Minute) with ease!
 
 <h2 align="left">Bin</h2>
-Your combolists & results goes in ./data folder.
-
-Retry/Custom means, that those accounts are alive but you have/can try a other region/country proxies to hit them.
+Your combolists and results should be placed in the "./data" folder,
+The "Retry/Custom" option indicates that those accounts are still active, but you have the flexibility to attempt using different region/country proxies to access them.
 
 
 https://t.me/BinShelter
